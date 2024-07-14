@@ -1,0 +1,13 @@
+@import url('/src/index.css');
+
+.nav-link {
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  scale: 1.1;
+}
